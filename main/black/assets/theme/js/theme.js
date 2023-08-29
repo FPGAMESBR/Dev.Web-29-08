@@ -166,7 +166,7 @@
   //Typed Animation
   function initTyped() {
     $("#typed").typed({
-      strings: ["ACHEI", "CARALHO", "DEPOIS", "EU MEXO"],
+      strings: ["Saudável", "Fresco", "Inovador", "Acolhedor"],
       // typing speed
       typeSpeed: 300,
       // time before typing starts
@@ -328,7 +328,7 @@
   //Map
   function initMap() {
     $('#map-contact').gmap({
-      'center': '-6.600000, 106.800000',
+      'center': '-8.295219770128556, -35.95183763812524',
       'zoom': 15,
       scrollwheel: false,
       'disableDefaultUI': false,
